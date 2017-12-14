@@ -1,0 +1,39 @@
+body {
+    background: beige
+}
+h1 {
+    background-color: floralwhite
+}
+h2 {
+    background-color: floralwhite
+}
+h3 {
+    background-color: floralwhite
+}
+h4 {
+    background-color: floralwhite
+}
+table {
+    border: 1px
+}
+td {
+    color: white;
+    background-color: lightcoral
+}
+nya {
+    color: black
+}
+a:link {
+    background: floralwhite;
+    color: black
+}
+a:visited {
+        background: beige;
+        color: black;
+}
+a:hover {
+    text-decoration-color: black;
+}
+a:active {
+    background-color: beige;
+}
