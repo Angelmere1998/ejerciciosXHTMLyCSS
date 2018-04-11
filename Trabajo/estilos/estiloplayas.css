@@ -1,39 +1,57 @@
 body {
-    background: beige
+    background: beige;
 }
-h1 {
-    background-color: floralwhite
-}
-h2 {
-    background-color: floralwhite
-}
-h3 {
-    background-color: floralwhite
-}
-h4 {
-    background-color: floralwhite
-}
+
+h1 {}
+
+h2 {}
+
+h3 {}
+
+h4 {}
+
 table {
-    border: 1px
+    border: 1px;
 }
-td {
-    color: white;
-    background-color: lightcoral
+
+fel {
+    background-color: lightcoral;
 }
+
 nya {
-    color: black
+    color: black;
 }
+
 a:link {
     background: floralwhite;
-    color: black
+    color: black;
 }
+
 a:visited {
-        background: beige;
-        color: black;
+    background: beige;
+    color: black;
 }
+
 a:hover {
     text-decoration-color: black;
 }
+
 a:active {
     background-color: beige;
+}
+
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+header,
+footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
 }
